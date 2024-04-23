@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **Frameworks**
 
-- 📫 How to reach me **vishalrathod210302@gmail.com**
+- 📫 How to reach me **officialvishalvanjari@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
