@@ -79,9 +79,3 @@
     <li><strong>Portfolio Website</strong> - A personal portfolio website built with React.js to showcase my projects and skills.</li>
   </ul>
 </p>
-
-<h3 align="left">GitHub Stats:</h3>
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=VishalVanjari&show_icons=true&locale=en" alt="Vishal's GitHub stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=VishalVanjari&show_icons=true&locale=en&layout=compact" alt="Vishal's most used languages" />
-</p>
