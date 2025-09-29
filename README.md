@@ -74,8 +74,10 @@
 <h3 align="left">Projects:</h3>
 <p align="left"> 
   <ul>
-    <li><strong>Online Bookstore Backend</strong> - Developing a Node.js-based backend for an online bookstore, documented with Swagger for frontend integration.</li>
-    <li><strong>Student Feedback System</strong> - A PHP-based application for collecting and analyzing student feedback.</li>
+    <li><strong>Smart Billing & User Microservices</strong> - Built a scalable Node.js microservices system for user management and billing with PostgreSQL, JWT authentication, and Dockerized deployment.</li>
+    <li><strong>Conversational AI Chatbot (RAG)</strong> - Engineered a full-stack AI chatbot using RAG architecture with Node.js/Express.js, PostgreSQL/pgvector, Google Gemini, and Hugging Face LLMs for advanced contextual conversations.</li>
+    <li><strong>College Event Website</strong> - Designed and developed a responsive event website using HTML, CSS, and JavaScript to manage registrations and display event details.</li>
     <li><strong>Portfolio Website</strong> - A personal portfolio website built with React.js to showcase my projects and skills.</li>
   </ul>
 </p>
+
